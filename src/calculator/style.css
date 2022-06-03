@@ -1,0 +1,53 @@
+
+.price{
+    position: absolute;
+    padding: 75px 20px 0px 20px;
+    min-height: 200px;
+    margin-right: 340px;
+    border-radius: 5px;
+    max-width: 700px;
+    border: 5px solid #ffc107;
+    background:#f9f9f9; }
+
+.title{
+    font-size: 28px;
+    color: #ee1d25;
+    margin: 0 0 20px; }
+.img{
+    position: relative;
+    padding: 70px 20px;
+    margin-bottom: 600px;
+    margin-left:700px;
+}
+
+
+.result{
+    padding: 20px 0 0;
+    margin: 20px 0;
+    font-size: 24px;
+    border-top: 1px solid #e0e0e0; }
+
+span.total{ color: #ed1d25; }
+
+
+
+.calculator input[type="text"], select {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 450px;
+    cursor: pointer;
+}
+
+.button1 {background-color: #008CBA;} /* Blue */
